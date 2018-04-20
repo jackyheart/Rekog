@@ -2,7 +2,7 @@ import com.amazonaws.services.rekognition.AmazonRekognition;
 import com.amazonaws.services.sns.AmazonSNS;
 import com.amazonaws.services.sqs.AmazonSQS;
 
-import com.amazonaws.services.rekognition.model.NotificationChannel;
+//import com.amazonaws.services.rekognition.model.NotificationChannel;
 
 public class VideoDetect {
     private static AmazonSNS sns = null;
